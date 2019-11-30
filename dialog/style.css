@@ -1,0 +1,24 @@
+#dialgo1 {
+    width: 130px;
+    height: 35px;
+    line-height: 35px;
+    background: #030709;
+    color: #fff;
+    border: 1px solid #190508;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    box-sizing: border-box;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    align-items: flex-start;
+    font: 400 13.3333px Arial;
+}
