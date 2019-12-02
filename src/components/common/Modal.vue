@@ -72,14 +72,6 @@ export default {
 
 }
 
-.modal-header h3 {
-  margin-top: 0;
-  color:tomato;
-}
-
-.modal-body {
-  margin: 20px 0;
-}
 
 .modal-footer{
    
